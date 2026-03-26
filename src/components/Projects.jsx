@@ -26,7 +26,7 @@ export default function Projects() {
       ],
       tech: ["Wix", "Google Analytics", "Mail Chimp"],
       image: "/Sneeky_Sneakers.png",
-      github: "https://github.com/yourusername/sneeky-sneakers",
+      github: "https://github.com/0Rishu0007",
       live: "https://rishikeshrishabh02.wixsite.com/my-site-5"
     }
   ];
